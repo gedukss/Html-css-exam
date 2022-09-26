@@ -190,7 +190,7 @@ table tr:nth-child(1) td:nth-child(1) {
 .footer-upsell {
     height: 570px;
     position: relative;
-    padding: 60px 0;
+    padding: 70px 0;
 }
 .green-woman {
     position: absolute;
@@ -280,7 +280,8 @@ ul {
         display: none;
     }
     .pink-snowman {
-        height: 500px;
+        height: 600px;
+        top: 100px;
         
     }
     .hero {
